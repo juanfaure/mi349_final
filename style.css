@@ -76,3 +76,8 @@
     margin: 20px 0;
     font-weight: 400;
 }
+.menu{
+    position:absolute;
+    top: 0;
+    right: 0;
+}

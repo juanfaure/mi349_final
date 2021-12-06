@@ -44,6 +44,11 @@
     cursor: pointer;
 
 }
+.toggle.active{
+    background: url('delete.png');
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
 
 .menu{
     display: none; 

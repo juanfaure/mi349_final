@@ -67,6 +67,7 @@
 .text{
     position: relative;
     color: #fff;
+    z-index: 3;
 }
 .text h2{ 
     font-size: 3.5em;

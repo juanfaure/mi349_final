@@ -60,5 +60,9 @@
     position: relative;
     z-index: 10;
     color: #fff;
-
+}
+.text h3{ 
+    font-size: 2em;
+    font-weight: 500;
+    line-height: 1em;
 }

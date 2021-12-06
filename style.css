@@ -11,7 +11,9 @@
     width: 100%;
     position: absolute;
     min-height: 100vh;
-
+    padding: 100px;
+    display: flex;
+    
 }
 .menu{
     display: none;

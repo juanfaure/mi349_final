@@ -4,97 +4,12 @@
     padding:0;
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
-    
-
 }
 
-.videocreds{
+.showcase{
     right: 0;
     width: 100%;
+    position: absolute;
     min-height: 100vh;
-    position: absolute;
-    padding: 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.videocreds header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 40px 100px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    z-index: 10; 
-    color: #fff;
-}
-
-.toggle{
-    position: relative;
-    width: 60px;
-    height: 60px;
-    background: url('dots.png');
-    background-repeat: no-repeat;
-    background-size: 30px;
-    background-position: center;
-    cursor: pointer;
-}
-.toggle.active{
-    background: url('delete.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 25px;
-    background-position: center;
-}
-
-.videocreds.active{
-    right: 300px;
-}
-
-
-
-.videocreds video{
-    position: absolute;
-    top: 0;
-    width: 100%;
-    left: 0;
-    object-fit: cover;
-    height: 100%;
-    opacity: 1.0;
-}
-.text{
-    position: relative;
-    color: #fff;
-    z-index: 3;
-}
-.text h2{ 
-    font-size: 3.5em;
-    font-weight: 600;
-    line-height: 1em;
-    color: #fff;
-}
-.text h3{ 
-    font-size: 1.6em;
-    font-weight: 600;
-    line-height: 0.5em;
-    color: #fff;
-}
-.text p{ 
-    font-size: 0.9;
-    margin: 20px 0;
-    font-weight: 400;
-    color: #fff;
-}
-
-.menu{
-    position:absolute;
-    width: 300px;
-    top: 0;
-    right: 0;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
-    z-index: 100;
+    
 }

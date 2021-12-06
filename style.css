@@ -54,6 +54,7 @@
     left: 0;
     object-fit: cover;
     height: 100%;
+    opacity: 1.0;
 }
 .text{
     position: relative;

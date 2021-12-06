@@ -53,3 +53,7 @@
     object-fit: cover;
     height: 100%;
 }
+.text{
+    position: relative;
+    z-index: 10;
+}

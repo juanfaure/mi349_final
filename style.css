@@ -56,4 +56,6 @@
 .text{
     position: relative;
     z-index: 10;
+    color: #fff;
+
 }

@@ -87,3 +87,7 @@
     color: black;
     
 }
+
+.videocreds.active{
+    right: 300px;
+}

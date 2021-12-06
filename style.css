@@ -96,15 +96,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
 }
 .menu ul{
     position: relative;
     list-style: none;
+    color: white;
 }
 
 .menu ul li a{
     text-decoration: none;
     font-size: 24px;
-    color:black;
+    color:white;
 }
 

@@ -71,3 +71,8 @@
     font-weight: 600;
     line-height: 0.5em;
 }
+.text p{ 
+    font-size: 0.9;
+    margin: 20px 0;
+    font-weight: 400;
+}

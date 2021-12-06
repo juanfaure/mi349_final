@@ -48,6 +48,13 @@
     background-size: 25px;
     background-position: center;
 }
+
+.videocreds.active{
+    right: 300px;
+}
+
+
+
 .videocreds video{
     position: absolute;
     top: 0;
@@ -88,6 +95,3 @@
     
 }
 
-.videocreds.active{
-    left: 300px;
-}

@@ -4,7 +4,7 @@
     padding:0;
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
-    color: #fff;
+    
 
 }
 
@@ -65,23 +65,24 @@
     font-size: 3.5em;
     font-weight: 600;
     line-height: 1em;
+    color: #fff;
 }
 .text h3{ 
     font-size: 1.6em;
     font-weight: 600;
     line-height: 0.5em;
+    color: #fff;
 }
 .text p{ 
     font-size: 0.9;
     margin: 20px 0;
     font-weight: 400;
+    color: #fff;
 }
 .menu{
     position:absolute;
     top: 0;
     right: 0;
-    
-}
-.li{
     color: black;
+    
 }

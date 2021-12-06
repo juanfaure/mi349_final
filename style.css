@@ -35,7 +35,9 @@
     background-position: center;
     cursor: pointer;
 }
-
+.toggle.active{
+    
+}
 .menu{
     display: none;
 }

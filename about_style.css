@@ -8,4 +8,7 @@
 }
 body{
     background-image: url('vsj.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }

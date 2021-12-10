@@ -17,7 +17,7 @@
     justify-content: space-between;
     align-items: center;
     background: white;
-    color: cornsilk;
+    color: white;
     z-index: 2;
 }
 .showcase.active{ 
@@ -102,11 +102,11 @@
     font-size: 1.5em;
     font-weight: 700;
     line-height: 1em;
-    color: cornsilk;
+    color: white;
 }
 .text p{
     font-size: 0.8em;
     font-weight: 700;
     line-height: 1em;
-    color: cornsilk;
+    color: white;
 }

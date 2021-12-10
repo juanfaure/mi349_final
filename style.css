@@ -47,6 +47,7 @@
     cursor: pointer;
 
 }
+
 .toggle.active{
     background: url('delete.png');
     background-repeat: no-repeat;

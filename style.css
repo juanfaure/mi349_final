@@ -63,7 +63,7 @@
     opacity: 0.8;
 }
 
-}
+
 .menu{
     position: absolute; 
     top: 0;
@@ -74,16 +74,16 @@
     align-items: center;
     justify-content: center;
 }
+
 .menu ul{
     position: relative;
     list-style: none;
 }
+
 .menu ul li a{
     text-decoration: none;
     font-size: 24px;
     color: black;
-
-
 }
 
 .text{
